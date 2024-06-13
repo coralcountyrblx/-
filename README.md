@@ -1,5 +1,3 @@
-# MotorFit
-
 **Your trusted destination for Game Development Assets and more.**
 
 ## Website Development
