@@ -82,3 +82,9 @@ Code block
 ```markdown
 ~~strikethrough~~
 ```
+
+
+### Example LUA Code
+```lua
+local script = script.Parent
+```
