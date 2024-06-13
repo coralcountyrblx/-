@@ -46,11 +46,10 @@
 > This is a blockquote.
 > It can span multiple lines.
 ```
-
+[MotorFit Homepage](http://motorfit.xyz)
 ## Code
 ### Inline Code
 ```markdown
-[MotorFit Homepage](http://motorfit.xyz)
 
 
 `Inline code`
